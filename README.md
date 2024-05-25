@@ -4,6 +4,10 @@
 
 'Deep Learning Simulator' can help users by offering detailed explanations and simulations of deep learning techniques. This includes discussing the various types of layers, activation functions, and optimization algorithms used in neural networks. Additionally, it can generate pseudo-code and visual diagrams to illustrate how these networks operate, making it easier to comprehend the theoretical and practical aspects of deep learning. Beyond the technical details, 'Deep Learning Simulator' provides real-world applications and case studies, demonstrating how deep learning is applied across different domains. This comprehensive support enables users to experiment with and understand deep learning methodologies, fostering both theoretical knowledge and practical skills.
 
-***
+#
+### Educating Computers
 
+[Educating Computers](https://github.com/sourceduty/Educating_Computers)
+
+***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
